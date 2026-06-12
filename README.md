@@ -1,5 +1,5 @@
 # About me
-### Hi there 👋
+### Hi, I'm Amir El-deen Azzadeen 👋
 
 <!--
 **azzadeen2/azzadeen2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,17 +15,39 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-As a dedicated and experienced Software Engineer, I have a proven track record in designing, developing, and implementing comprehensive IT solutions. With over a decade of experience in software development and IT support, I specialize in Python (Django, Odoo, ERPNEXT), Java (Spring Boot), and database management (MySQL, PostgreSQL). My career has spanned various roles in different organizations, providing me with a robust skill set and deep understanding of the software development lifecycle, Agile methodologies, and IT infrastructure management.
+I am a Senior Software & DevOps Engineer with over 8 years of experience, specializing in bridging the gap between robust infrastructure and complex business logic. My passion lies in building scalable, automated, and observable systems, particularly within the Odoo ecosystem.
 
-Currently, I am a Software Engineer at Qader Solution Technology, where I design and develop Odoo applications, customize modules, and integrate third-party systems. My responsibilities also include ensuring the security and efficiency of IT systems, providing end-user support, and maintaining IT documentation. Previously, I have held significant roles at Mazad Autoshop and Yemen Bluesky, further enhancing my expertise in software engineering and IT support.
+### 🛠 Tech Stack & Expertise
+- ERP Development: Odoo (Python/XML), ERPNext.
 
-Key Highlights of My Experience:
+- DevOps & Infrastructure: Docker, Kubernetes (K8s), Linux (Ubuntu).
 
-1- Programming Languages: Proficient in Python (Django, Odoo, ERPNEXT) and Java (Spring Boot).
-2- Database Management: Skilled in MySQL and PostgreSQL.
-3- Tools & Technologies: Experienced with REST API, Docker, Kubernetes, GitHub CI/CD, and GIT.
-4- Certifications: IT Enhancement Program (ITEP) by the Association of German-Yemeni Engineers (DJIV).
-5- Methodologies: Adept in Agile and Scrum frameworks, ensuring efficient and organized project management.
-In addition to my technical skills, I am fluent in both Arabic and English, enabling me to communicate effectively with diverse teams and stakeholders. I am a quick learner self-motivated, a team player, and possess strong organizational skills. My commitment to continuous learning and professional development ensures that I stay updated with the latest industry trends and technologies.
+- Automation & CI/CD: GitHub Actions (Expert), Terraform.
 
-I am passionate about leveraging technology to drive business success and improve operational efficiency. If you are looking for a dedicated and experienced IT professional to join your team, I would love to connect and explore potential opportunities.
+- Observability: Prometheus, Grafana, Loki, Alloy.
+
+- Backend & APIs: Python (Django), PostgreSQL (Performance Tuning), RESTful APIs.
+
+### 🚀 What I'm Focused On
+- Scaling & Automation: Automating infrastructure provisioning and CI/CD pipelines to accelerate development lifecycles.
+
+- Performance: Optimizing database queries and backend architecture for high-concurrency systems.
+
+- Observability: Building "always-on" monitoring frameworks to reduce incident response times and improve system reliability.
+
+- Agile Methodology: Leveraging my background as a Certified Scrum Master to drive efficient team collaboration and high-quality software delivery.
+
+### 🎓 Certifications
+- Certified Agile Scrum Master (CASM)
+
+- Terraform & Docker Foundations
+
+- Ubuntu Linux Professional
+
+- Google IT Automation with Python
+
+### 📫 Connect With Me
+- LinkedIn: linkedin.com/in/amir-el-deen-azzadeen
+
+### 💡 A Note for Visitors
+I am passionate about open-source and professional knowledge sharing. If you have questions about Odoo performance tuning or integrating DevOps practices into Python-based ERP projects, feel free to reach out or open a discussion on any of my repositories!
